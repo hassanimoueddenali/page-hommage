@@ -4,6 +4,8 @@ body{
 #head{
     color: red;
     text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 img{
     height: 250px;
@@ -14,7 +16,11 @@ img{
     color: red;
     text-align: center;
     font-size :50px;
+    padding-left: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .words{
-    color: white;
+    color: rgba(156, 23, 245, 0.973);
+    padding-left: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
