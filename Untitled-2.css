@@ -1,0 +1,20 @@
+body{
+    background-image:url("game_3_of_the_2006_NBA_finals.jpg");
+}
+#head{
+    color: red;
+    text-align: center;
+}
+img{
+    height: 250px;
+   margin-left: 500px;
+   border-radius: 25%;
+}
+.change1{
+    color: red;
+    text-align: center;
+    font-size :50px;
+}
+.words{
+    color: white;
+}
